@@ -1,0 +1,14 @@
+    <h2><font face="Verdana">Kávéfajták</font></h2>
+<ul>
+        <li>&#9749; Espresso</li>
+        <li>&#9749; Americano</li>
+        <li>&#9749;Cappuccino</li>
+        <li>&#9749;Latte Macchiato</li>
+    </ul>
+<ul>
+        <li>&#127874;  Tiramisu</li>
+        <li>&#127874;  Kávés Brownie</li>
+        <li>&#127874; Kávés süti</li>
+        <li>&#127874; Kávés croissant</li>
+        <li>&#127874;  Kávés muffin</li>
+    </ul>

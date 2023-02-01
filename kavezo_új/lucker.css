@@ -1,0 +1,35 @@
+body{
+    background-image: url(kepek/nigus.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+a{
+    color: black;
+}
+a:hover{
+    transition: 200ms;
+    color: rgb(37, 32, 16);
+}
+#box{
+    background-color: rgb(107, 91, 47);
+    text-align: center;
+    margin: auto;
+    width:60%;
+    height: 85%;
+    border: 3px solid rgb(78, 67, 35);
+    padding: 3vw;
+}
+#mid{
+    margin: auto;
+}
+.kep{
+    border: black 1px solid;
+}
+table{
+    scale: 10vw;
+}
+#logo{
+    height: 15%;
+    border: 3px solid rgb(78, 67, 35);
+}
