@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1vw;
+  }
+  
+  
+  body {
+    background-image: url(kepek/nigus.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  
+  #box {
+    width: 70vw;
+    margin: auto;
+    background-color: rgb(107, 91, 47);
+    border: 3px solid rgb(78, 67, 35);
+    margin-top: 1.5vw;
+  }
+  
+  
+  #header {
+    height: 8vw;
+  }
+  
+  
+  .logo {
+    width: 10vw;
+    margin: auto;
+    border: 3px solid rgb(78, 67, 35);
+  }
+  
+  #logo1 {
+    float: left;
+    margin: 0.25vw;
+    border: 3px solid rgb(78, 67, 35);
+  }
+  
+  #logo2 {
+    float: right;
+    margin: 0.25vw;
+  }
+  
+  
+  #headest {
+    width: 35vw;
+    height: 10vw;
+    text-align: center;
+    margin: auto;
+    padding-top: 0.45vw;
+  }
+  
+  
+  #maint {
+    margin: auto;
+    margin-top: 2vw;
+    border: 3px solid rgb(66, 57, 30);
+    background-color: rgb(116, 97, 46);
+    scale: 30vw;
+  }
+  
+  
+  .alta {
+    height: 10vw;
+    width: 10vw;
+  }
+  
+  td {
+    border: 3px solid rgb(78, 67, 35);
+    background-color:  rgb(133, 113, 58);
+    scale: 15vw;
+  }
+  
+  
+  .leir {
+    font-size: 1vw;
+  }
+  
+  
+  a {
+    color: rgb(34, 29, 16);
+    transition-duration: 300ms;
+  }
+  
+  a:hover {
+    color:rgb(78, 67, 35);
+  }
+  
+  #sheader{
+    background-color:rgb(107, 91, 47);
+    height: 4.25vw;
+  }
+  #sheader .std a {
+    display: block;
+    padding: 1vw;
+    text-align: center;
+    color: white;
+  }
+  
+  #sheader .std a:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: rgb(78, 67, 35);
+  }
+  img{
+    width: 20vw;
+  }
+  #fologo {
+    width: 4vw;
+    margin-left: 3vw;
+    margin-top: 0.25vw;
+    float: left;
+    border:3px solid rgb(66, 57, 30);
+  }
